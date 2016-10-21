@@ -1,0 +1,13 @@
+c:\users\pascal\documents\visual studio 2015\Projects\App1\App1\App1\bin\Debug\App1.dll
+c:\users\pascal\documents\visual studio 2015\Projects\App1\App1\App1\bin\Debug\App1.pdb
+c:\users\pascal\documents\visual studio 2015\Projects\App1\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+c:\users\pascal\documents\visual studio 2015\Projects\App1\App1\App1\obj\Debug\App1.dll
+c:\users\pascal\documents\visual studio 2015\Projects\App1\App1\App1\obj\Debug\App1.pdb
+c:\users\pascal\documents\visual studio 2015\Projects\App1\App1\App1\obj\Debug\App1.dll.mdb
+c:\users\pascal\documents\visual studio 2015\Projects\App1\App1\App1\bin\Debug\App1.dll.mdb
+c:\users\pascal\documents\visual studio 2015\Projects\App1\App1\App1\obj\Debug\App1.dll.mdb
+c:\users\pascal\documents\visual studio 2015\Projects\App1\App1\App1\bin\Debug\App1.dll.mdb
+C:\Users\Pascal\Documents\Visual Studio 2015\Projects\App1\App1\App1\obj\Debug\App1.dll.mdb
+C:\Users\Pascal\Documents\Visual Studio 2015\Projects\App1\App1\App1\bin\Debug\App1.dll.mdb
+C:\Users\Pascal\Documents\Visual Studio 2015\Projects\App1\App1\App1\obj\Debug\App1.dll.mdb
+C:\Users\Pascal\Documents\Visual Studio 2015\Projects\App1\App1\App1\bin\Debug\App1.dll.mdb
