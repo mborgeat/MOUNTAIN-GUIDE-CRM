@@ -42,4 +42,48 @@ c:\users\pascal\documents\visual studio 2015\Projects\App1\App1\App1.Droid\obj\D
 c:\users\pascal\documents\visual studio 2015\Projects\App1\App1\App1.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 c:\users\pascal\documents\visual studio 2015\Projects\App1\App1\App1.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\Pascal\Documents\Visual Studio 2015\Projects\App1\App1\App1.Droid\obj\Debug\App1.Droid.dll.mdb
-C:\Users\Pascal\Documents\Visual Studio 2015\Projects\App1\App1\App1.Droid\bin\Debug\App1.Droid.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\App1.Droid.dll
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\App1.Droid.pdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\App1.Droid.apk
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\App1.Droid-Signed.apk
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\App1.dll
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\App1.pdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\App1.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\App1.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\App1.Droid.dll
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\App1.Droid.pdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\android\bin\App1.Droid.apk
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\res\layout\main.xml
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\res\values\strings.xml
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\R.cs.flag
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\uploadflags.txt
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\App1.Droid.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\System.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\android\assets\App1.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\android\assets\App1.Droid.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\obj\Debug\App1.Droid.dll.mdb
+C:\Users\Pascal\Source\MOUNTAIN-GUIDE-CRM\App1\App1\App1.Droid\bin\Debug\App1.Droid.dll.mdb
